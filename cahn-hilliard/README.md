@@ -1,7 +1,7 @@
 # Cahn–Hilliard phase separation
 
 A Fourier spectral solver for the Cahn–Hilliard equation, which models how a mixture of
-two substances spontaneously separates into regions of each — the process behind
+two substances spontaneously separates into regions of each. This is the process behind
 spinodal decomposition and Ostwald ripening.
 
 The equation is fourth order in space and nonlinear, which makes it stiff: an explicit
