@@ -10,17 +10,16 @@ Delete this file once everything below is done.
 
 ## Cahn–Hilliard notebook
 
-- [ ] **Re-run the whole notebook top to bottom.** The two `KeyboardInterrupt` tracebacks
-      have been stripped from the file, but the cells were never actually run to completion.
-      Re-running is still required so the results are real rather than just absent.
-- [ ] Cell 45 is the Task 6 spinodal decomposition and has no figures at all.
-      This is the headline result — it needs to actually run and render.
+- [x] **Re-run the whole notebook top to bottom.** *(done — the submitted version runs
+      clean end to end, no tracebacks, 19 figures including the Task 6 energy/mass
+      results for the spinodal decomposition runs.)*
 - [x] Fix the spelling: **Cahn**–Hilliard, not "Chan". 8 places:  *(done)*
       - cell 5 (×2, markdown), cell 7 (markdown), cell 35 (markdown)
       - cell 37 (comment), cell 42 (docstring + comment)
       - cell 38: rename the function `chan_hilliard_be_solver_sym` → `cahn_hilliard_be_solver_sym`
         and update its call site
 - [x] cell 37: remove `# SJEKK MED MATHIASSSSSS`  *(done)*
+- [x] fix remaining "linerar" -> "linear" typos  *(done)*
 
 ## Usadel notebook
 

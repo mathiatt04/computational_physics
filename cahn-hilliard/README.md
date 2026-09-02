@@ -20,10 +20,16 @@ centred at −1 (explicit Euler); as θ → ½ the radius diverges and the metho
 A-stable; beyond ½ the region inverts and the unstable set becomes the enclosed disc.
 These curves match the numerically computed contours of |r_θ(z)| = 1 exactly.
 
-### Phase separation
+### Energy and mass during phase separation
 
-*[Re-run the notebook and drop the spinodal decomposition frames in here — they are the
-single most compelling image in the project.]*
+![Mixing, interface and total energy alongside mass conservation](energy-and-mass-conservation.png)
+
+Both energies fall as the system separates into domains and seeks to minimise its free
+energy, while the total mass (right) stays numerically constant throughout — the
+conservation law proved analytically in the report holds in the simulation to floating-point
+precision. The full spatial evolution is rendered as an animation inside the notebook; a
+static frame doesn't do the pattern justice, so it's worth opening `cahn_hilliard.ipynb`
+directly to see it.
 
 ## Method
 
