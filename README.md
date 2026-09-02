@@ -1,8 +1,7 @@
 # Computational physics projects
 
-Two numerical projects in Python, written for TMA4320 *Introduction to Scientific Computation*
-at NTNU, spring 2025. Both solve a physics problem end to end: derive the scheme, implement it,
-verify it converges, then run it and interpret what comes out.
+A number of numerical projects in Python, written as part of coursework at NTNU. Each one solves a physics problem end to end by deriving the scheme, implementig it,
+verifying it converges, then run it and interpret what comes out.
 
 | Project | Problem | Core methods |
 |---|---|---|
@@ -26,7 +25,7 @@ environment without proper multiprocessing support.
 
 The Josephson-junction and Cahn-Hilliard projects were written in groups of three, per course requirements. Mina Vikdal Cook and Trond Christian Jensen Haug co-authored both. The written reports were prepared jointly in LaTeX.
 
-My main individual contributions were most of theoretical derivations in both projects, as well as .
+My main individual contributions were most of the theoretical derivations in both projects, as well as implementing the IMEX method, improving runtime by utilizing multiple processor cores, and writing docstrings for most functions.
 
 ## Note on course material
 
