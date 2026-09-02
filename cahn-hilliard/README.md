@@ -65,7 +65,6 @@ algebraically, as expected for a spectral method, confirmed with a curve fit.
 ## Files
 
 - `cahn_hilliard.ipynb`, the full project
-- `report.pdf`, written report with the analytical derivations
 
 ## Reading
 
