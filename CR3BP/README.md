@@ -4,7 +4,7 @@ Numerical study of the Circular Restricted Three-Body Problem (CR3BP), written f
 TFY4345 *Classical Mechanics* at NTNU, autumn 2025. An individual project.
 
 The CR3BP models the motion of a massless third body (a satellite) under the gravity of
-two much larger bodies orbiting each other in a circle — here, Earth and the Moon. It's
+two much larger bodies orbiting each other in a circle. An example is the Earth and the Moon. It's
 the standard model behind real translunar trajectory design, including the Apollo
 missions and modern lunar Gateway orbits.
 
@@ -14,8 +14,8 @@ missions and modern lunar Gateway orbits.
 
 ![Orbit released from rest at L1, spiralling away over time](l1-orbit-rotating.png)
 
-A satellite released from rest exactly at the L1 point — the balance point between Earth
-and the Moon — does not stay there. Tiny numerical fluctuations are enough to grow into a
+A satellite released from rest exactly at the L1 point, the balance point between Earth
+and the Moon, does not stay there. Tiny numerical fluctuations are enough to grow into a
 large, looping departure from the equilibrium, shown here in the rotating frame over one
 non-dimensional time unit. This confirms directly what the linear stability analysis
 predicts: the collinear Lagrange points are saddle points of the effective potential, not
@@ -75,5 +75,5 @@ root finder.
 
 ## Reading
 
-- NASA, *Apollo 11 Mission Report* (1969) — source of the translunar injection velocity
-- Abel–Ruffini theorem — why the Lagrange point equation needs a numerical, not closed-form, solution
+- NASA, *Apollo 11 Mission Report* (1969), source of the translunar injection velocity
+- Abel–Ruffini theorem, why the Lagrange point equation needs a numerical, not closed-form, solution
