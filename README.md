@@ -24,12 +24,9 @@ environment without proper multiprocessing support.
 
 ## Authorship
 
-Both projects were written in pairs, as the course required. **[Partner's full name]**
-co-authored both. The written reports were prepared jointly in LaTeX.
+The Josephson-junction and Cahn-Hilliard projects were written in groups of three, per course requirements. Mina Margrethe Vikdal Cook and Trond Christian Jensen Haug co-authored both. The written reports were prepared jointly in LaTeX.
 
-My main individual contributions were **[fill in honestly — e.g. the analytical proof
-that the current integrand is conserved (report 2, task 2m), the stability-boundary
-derivation in report 3 task 3c, the Riccati packing/unpacking layer and its tests]**.
+My main individual contributions were most of theoretical derivations in both projects, as well as .
 
 ## Note on course material
 
