@@ -1,7 +1,7 @@
 # Josephson junctions via the Usadel equation
 
 Numerical study of the superconducting proximity effect in a
-superconductor–normal metal–superconductor (S–N–S) junction, by solving the Usadel
+superconductor-normal metal-superconductor (S-N-S) junction, by solving the Usadel
 equation in the Riccati parametrisation.
 
 The physical output is the **current–phase relation** of the junction: the supercurrent
