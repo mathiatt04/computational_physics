@@ -28,7 +28,7 @@ gap edge.
 ![Supercurrent as a function of phase difference](current-phase.png)
 
 The current is 2π-periodic and roughly sinusoidal in the phase difference across the
-junction — the DC Josephson effect. With zero phase difference the current integrand
+junction. This is the DC Josephson effect. With zero phase difference the current integrand
 is numerically zero everywhere, as it must be.
 
 ## Method
@@ -62,8 +62,8 @@ parameter rather than to the order difference between the methods.
 
 ## Files
 
-- `usadel_josephson.ipynb` — the full project
-- `report.pdf` — written report with the analytical derivations
+- `usadel_josephson.ipynb`, the full project
+- `report.pdf`, written report with the analytical derivations
 
 ## Reading
 
