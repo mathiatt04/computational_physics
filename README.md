@@ -5,9 +5,9 @@ verifying it converges, then run it and interpret what comes out.
 
 | Project | Problem | Core methods |
 |---|---|---|
-| [**Josephson junctions via the Usadel equation**](usadel-josephson/) | Superconducting proximity effect in an S–N–S junction | Adaptive Runge–Kutta, shooting method, boundary value problems, parallelisation |
+| [**Josephson junctions via the Usadel equation**](usadel-josephson/) | Superconducting proximity effect in an S-N-S junction | Adaptive Runge-Kutta, shooting method, boundary value problems, parallelisation |
 | [**Cahn-Hilliard phase separation**](cahn-hilliard/) | Spinodal decomposition in a binary mixture | Fourier spectral methods, IMEX time integration, convergence analysis |
-| [**Circular restricted three-body problem**](CR3BP/)  | Lagrange points and translunar trajectories in the Earth-Moon system | High-order Runge–Kutta (DOP853), Newton's method, conserved-quantity verification
+| [**Circular restricted three-body problem**](CR3BP/)  | Lagrange points and translunar trajectories in the Earth-Moon system | High-order Runge-Kutta (DOP853), Newton's method, conserved-quantity verification
 
 Each folder has its own README, the notebook, and the written report.
 
