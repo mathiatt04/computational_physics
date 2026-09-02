@@ -24,7 +24,7 @@ environment without proper multiprocessing support.
 
 ## Authorship
 
-The Josephson-junction and Cahn-Hilliard projects were written in groups of three, per course requirements. Mina Margrethe Vikdal Cook and Trond Christian Jensen Haug co-authored both. The written reports were prepared jointly in LaTeX.
+The Josephson-junction and Cahn-Hilliard projects were written in groups of three, per course requirements. Mina Vikdal Cook and Trond Christian Jensen Haug co-authored both. The written reports were prepared jointly in LaTeX.
 
 My main individual contributions were most of theoretical derivations in both projects, as well as .
 
