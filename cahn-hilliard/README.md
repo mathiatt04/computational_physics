@@ -1,6 +1,6 @@
 # Cahn–Hilliard phase separation
 
-A Fourier spectral solver for the Cahn–Hilliard equation, which models how a mixture of
+A Fourier spectral solver for the Cahn-Hilliard equation, which models how a mixture of
 two substances spontaneously separates into regions of each. This is the process behind
 spinodal decomposition and Ostwald ripening.
 
