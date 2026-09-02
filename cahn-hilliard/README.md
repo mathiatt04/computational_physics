@@ -25,7 +25,7 @@ These curves match the numerically computed contours of |r_θ(z)| = 1 exactly.
 ![Mixing, interface and total energy alongside mass conservation](energy-and-mass-conservation.png)
 
 Both energies fall as the system separates into domains and seeks to minimise its free
-energy, while the total mass (right) stays numerically constant throughout — the
+energy, while the total mass (right) stays numerically constant throughout. The
 conservation law proved analytically in the report holds in the simulation to floating-point
 precision. The full spatial evolution is rendered as an animation inside the notebook; a
 static frame doesn't do the pattern justice, so it's worth opening `cahn_hilliard.ipynb`
@@ -51,7 +51,7 @@ built up in stages:
 Two findings worth pulling out of the report:
 
 - **Aliasing is visible in the convergence data.** For the manufactured solution
-  sin(8(x−1))cos(4y) the error drops off a cliff between Nx = 15 and Nx = 16 — exactly
+  sin(8(x−1))cos(4y) the error drops off a cliff between Nx = 15 and Nx = 16. This is exactly
   the Nyquist rate N ≥ 2·8 for the highest frequency present. Below it, high-frequency
   components fold onto lower ones and corrupt the solution.
 - **The θ = 0 convergence study initially looked broken**, showing no error decay at all.
@@ -64,8 +64,8 @@ algebraically, as expected for a spectral method, confirmed with a curve fit.
 
 ## Files
 
-- `cahn_hilliard.ipynb` — the full project
-- `report.pdf` — written report with the analytical derivations
+- `cahn_hilliard.ipynb`, the full project
+- `report.pdf`, written report with the analytical derivations
 
 ## Reading
 
