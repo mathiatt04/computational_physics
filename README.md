@@ -9,7 +9,7 @@ verifying it converges, then run it and interpret what comes out.
 | [**Cahn-Hilliard phase separation**](cahn-hilliard/) | Spinodal decomposition in a binary mixture | Fourier spectral methods, IMEX time integration, convergence analysis |
 | [**Circular restricted three-body problem**](CR3BP/)  | Lagrange points and translunar trajectories in the Earth-Moon system | High-order Runge-Kutta (DOP853), Newton's method, conserved-quantity verification
 
-Each folder has its own README, the notebook, and the written report.
+Each folder has its own README and all relevant documents.
 
 ## Running the code
 
