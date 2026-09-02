@@ -7,7 +7,8 @@ verifying it converges, then run it and interpret what comes out.
 |---|---|---|
 | [**Josephson junctions via the Usadel equation**](usadel-josephson/) | Superconducting proximity effect in an S-N-S junction | Adaptive Runge-Kutta, shooting method, boundary value problems, parallelisation |
 | [**Cahn-Hilliard phase separation**](cahn-hilliard/) | Spinodal decomposition in a binary mixture | Fourier spectral methods, IMEX time integration, convergence analysis |
-| [**Circular restricted three-body problem**](CR3BP/)  | Lagrange points and translunar trajectories in the Earth-Moon system | High-order Runge-Kutta (DOP853), Newton's method, conserved-quantity verification
+| [**Circular restricted three-body problem**](CR3BP/)  | Lagrange points and translunar trajectories in the Earth-Moon system | High-order Runge-Kutta (DOP853), Newton's method, conserved-quantity verification |
+| [**2D Lennard-Jones gas simulation**](gas-simulation/) | Recovering the Maxwell distribution and ideal gas law from particle dynamics | Velocity Verlet integration, N-body simulation, statistical fitting |
 
 Each folder has its own README and all relevant documents.
 
