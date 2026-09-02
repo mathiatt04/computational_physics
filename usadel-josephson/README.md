@@ -63,7 +63,6 @@ parameter rather than to the order difference between the methods.
 ## Files
 
 - `usadel_josephson.ipynb`, the full project
-- `report.pdf`, written report with the analytical derivations
 
 ## Reading
 
